@@ -1,16 +1,101 @@
-# React + Vite
+# 🌦 Weather App
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A modern and responsive weather forecasting application built using React.js that provides real-time weather updates for any city worldwide.
 
-Currently, two official plugins are available:
+🔗 Live Demo: https://weatherapp-mocha-eight.vercel.app/
+📂 GitHub Repository: https://github.com/IvnasasSanvi/Weather-app
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) (or [oxc](https://oxc.rs) when used in [rolldown-vite](https://vite.dev/guide/rolldown)) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+---
 
-## React Compiler
+## 📸 Preview
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+```md
+![Weather App Screenshot](./screenshot.png)
+```
 
-## Expanding the ESLint configuration
+---
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+# ✨ Features
+
+* 🌍 Search weather by city name
+* 🌡 Real-time temperature updates
+* ☁ Weather conditions and icons
+* 💨 Wind speed and humidity display
+* 📱 Fully responsive design
+* ⚡ Fast and smooth user experience
+
+---
+
+# 🏗 Tech Stack
+
+## Frontend
+
+* React.js
+* HTML5
+* CSS3
+* JavaScript
+
+---
+
+# ⚙️ Installation
+
+## Clone Repository
+
+```bash
+git clone https://github.com/IvnasasSanvi/Weather-app.git
+```
+
+## Navigate to Project
+
+```bash
+cd Weather-app
+```
+
+## Install Dependencies
+
+```bash
+npm install
+```
+
+## Start Development Server
+
+```bash
+npm run dev
+```
+
+---
+
+# 📂 Project Structure
+
+```bash
+Weather-app/
+│
+├── src/
+├── public/
+├── package.json
+└── README.md
+```
+
+---
+
+# 🌍 Deployment
+
+Frontend deployed on Vercel.
+
+---
+
+# 🎯 Future Improvements
+
+* 7-day weather forecast
+* Dark/Light mode
+* Geolocation support
+* Weather animations
+* Hourly forecast charts
+
+---
+
+# 👨‍💻 Author
+
+Made with ❤️ by SANVI
+
+GitHub: https://github.com/IvnasasSanvi
