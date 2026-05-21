@@ -3,6 +3,7 @@
 A modern and responsive weather forecasting application built using React.js that provides real-time weather updates for any city worldwide.
 
 🔗 Live Demo: https://weatherapp-mocha-eight.vercel.app/
+
 📂 GitHub Repository: https://github.com/IvnasasSanvi/Weather-app
 
 ---
