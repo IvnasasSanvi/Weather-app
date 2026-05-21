@@ -9,9 +9,9 @@ A modern and responsive weather forecasting application built using React.js tha
 
 ## 📸 Preview
 
-```md
+
 ![Weather App Screenshot](./screenshot.png)
-```
+
 
 ---
 
